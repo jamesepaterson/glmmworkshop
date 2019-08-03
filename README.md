@@ -1,2 +1,2 @@
 # glmmworkshop
-Material for workshop on GLMM intro workshop for ecologists
+Material for workshop on Introduction to Generalized Linear Mixed-Effects Models workshop for ecologists.
