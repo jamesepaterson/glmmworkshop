@@ -17,7 +17,7 @@
 # 2. Diagnostics and assumptions tests with base R or DHARMa
 # 3. Make inferences (test effects and effect sizes)
 # 4. Make predictions
-# 6. Plot
+# 5. Plot
 # ...Iterate, as needed!
 
 # Outline:
