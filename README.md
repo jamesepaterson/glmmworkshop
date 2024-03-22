@@ -6,4 +6,3 @@ Includes:
 * Sample (simulated) dataset used in workshop
 * Code for installing required packages
 * Code for the workshop introducing GLMMs
-* Extra code using other packages and special cases
